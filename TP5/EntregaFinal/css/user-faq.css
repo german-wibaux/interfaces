@@ -1432,7 +1432,7 @@ footer .copyright {
     width: 1920px;
     height: 100%;
     display: flex;
-    background: black;
+    background: url("../images/img-back-view-curr.jpg") no-repeat;
     background-size: 100% 100%;
     display: flex;
     align-items: flex-end;
